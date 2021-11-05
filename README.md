@@ -1,4 +1,4 @@
-# Connect-4
+# Connect-4 Server
 This Connect 4 web client is meant to be used in conjunction with the Connect 4 client made with Dart, also found on my github on its own repository.
 
 ### PHP Scripts:
