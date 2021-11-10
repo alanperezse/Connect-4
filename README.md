@@ -10,4 +10,4 @@ on the src/ directory and this will create a local server that we can interact w
 
 
 ### To play:
-The server will get the user response using php _GET array. Responses by the server will be in JSON format, which can be interpreted by the Dart client provided in the client repository.
+The server will get the user response using php _GET array. Responses by the server will be in JSON format, which can be interpreted by the Dart client provided in the client repository. Run the php server in localhost:8000 (or some other url), and then follow the indications from the Dart repository.
